@@ -1,4 +1,4 @@
-# ep-1
+# EP-1
 
 ## Overview
 
