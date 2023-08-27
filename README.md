@@ -1,6 +1,7 @@
 # EP-1: The mempool search JSON RPC call to ethnode
 
 ## Overview
+Includes EP-0 bugfixes.
 
 ## Usage
 
