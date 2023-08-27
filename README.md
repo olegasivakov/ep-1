@@ -29,3 +29,6 @@ Includes EP-0 bugfixes.
 
 > [!NOTE]
 > Based on ethnode release Mawinor (v1.12.2) (https://github.com/ethereum/go-ethereum/releases/tag/v1.12.2) commit bed8460.
+
+> [!NOTE]
+> Version EP-1b is available for BSC node: https://github.com/olegasivakov/ep-1b
