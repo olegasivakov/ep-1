@@ -10,6 +10,9 @@
 > Copy the next files to ethnode sourcecode and build ```geth``` as usual:
 > - ```./txpool/legacypool/list.go```
 
+> [!IMPORTANT]
+> Compare files! Only EP-1 and EP-0 rows are needed!
+
 > [!NOTE]
 > See ```// EP-1``` lines in the sourcecode.
 
