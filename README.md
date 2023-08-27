@@ -8,7 +8,7 @@
 
 > [!IMPORTANT]
 > Copy the next files to ethnode sourcecode and build ```geth``` as usual:
->  - ```./txpool/legacypool/list.go```
+> - ```./txpool/legacypool/list.go```
 
 > [!NOTE]
 > See ```// EP-1``` lines in the sourcecode.
