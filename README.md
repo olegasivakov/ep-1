@@ -9,11 +9,11 @@ Includes EP-0 bugfixes.
 
 > [!IMPORTANT]
 > Copy the next files to ethnode sourcecode and build ```geth``` as usual:
-> - ```./txpool/blobpool/blobpool.go```
-> - ```./txpool/legacypool/legacypool.go```
-> - ```./txpool/legacypool/list.go```
-> - ```./txpool/subpool.go```
-> - ```./txpool/txpool.go```
+> - ```./core/txpool/blobpool/blobpool.go```
+> - ```./core/txpool/legacypool/legacypool.go```
+> - ```./core/txpool/legacypool/list.go```
+> - ```./core/txpool/subpool.go```
+> - ```./core/txpool/txpool.go```
 > - ```./eth/api_backend.go```
 > - ```./internal/ethapi/api.go```
 > - ```./internal/ethapi/backend.go```
