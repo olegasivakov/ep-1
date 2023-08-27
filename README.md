@@ -9,7 +9,17 @@ Includes EP-0 bugfixes.
 
 > [!IMPORTANT]
 > Copy the next files to ethnode sourcecode and build ```geth``` as usual:
+> - ```./txpool/blobpool/blobpool.go```
+> - ```./txpool/legacypool/legacypool.go```
 > - ```./txpool/legacypool/list.go```
+> - ```./txpool/subpool.go```
+> - ```./txpool/txpool.go```
+> - ```./eth/api_backend.go```
+> - ```./internal/ethapi/api.go```
+> - ```./internal/ethapi/backend.go```
+> - ```./internal/web3ext/web3ext.go```
+> - ```./les/api_backend.go```
+> - ```./light/txpool.go```
 
 > [!IMPORTANT]
 > Compare files! Only EP-1 and EP-0 rows are needed!
