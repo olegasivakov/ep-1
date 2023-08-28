@@ -1,7 +1,21 @@
 # EP-1: The mempool search JSON RPC call to ethnode
 
 ## Overview
+
+### Usecases
+
+### Context
+
+### Technical analysis
 Includes EP-0 bugfixes.
+
+### DOD
+
+### Estimated time
+
+### How to test
+
+### How to deploy
 
 ## Usage
 
