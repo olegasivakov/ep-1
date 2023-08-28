@@ -9,10 +9,6 @@
 ### Technical analysis
 Includes EP-0 bugfixes.
 
-### DOD
-
-### Estimated time
-
 ### How to test
 
 ### How to deploy
