@@ -42,3 +42,9 @@ Includes EP-0 bugfixes.
 
 > [!NOTE]
 > Version EP-1b is available for BSC node: https://github.com/olegasivakov/ep-1b
+
+## License
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg?maxAge=2592000)](https://raw.githubusercontent.com/apollostack/apollo-ios/master/LICENSE)
+
+MIT
